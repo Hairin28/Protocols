@@ -35,14 +35,14 @@
 
 ### 1.1 Download sra files below
 
-    |method| |stage| | | |url|
-    |:----|:----|:----|:----|:----|:----|:----|
-    |RNA-seq|Ezh2 CKO male PGC rep1|E13.5|male|ezh2_cKO|GSM4196632|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560079|
-    |RNA-seq|Ezh2 CKO male PGC rep2|E13.5|male|ezh2_cKO|GSM4196633|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560081|
-    |RNA-seq|Ezh2 CKO male PGC rep3|E13.5|male|ezh2_cKO|GSM4196634|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560083|
-    |RNA-seq|Ezh2 Ctrl male PGC rep1|E13.5|male|Ezh2_ctrl|GSM4196638|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560091|
-    |RNA-seq|Ezh2 Ctrl male PGC rep2|E13.5|male|Ezh2_ctrl|GSM4196639|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560093|
-    |RNA-seq|Ezh2 Ctrl male PGC rep3|E13.5|male|Ezh2_ctrl|GSM4196640|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560095|
+|method| |stage| | | |url|
+|:----|:----|:----|:----|:----|:----|:----|
+|RNA-seq|Ezh2 CKO male PGC rep1|E13.5|male|ezh2_cKO|GSM4196632|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560079|
+|RNA-seq|Ezh2 CKO male PGC rep2|E13.5|male|ezh2_cKO|GSM4196633|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560081|
+|RNA-seq|Ezh2 CKO male PGC rep3|E13.5|male|ezh2_cKO|GSM4196634|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560083|
+|RNA-seq|Ezh2 Ctrl male PGC rep1|E13.5|male|Ezh2_ctrl|GSM4196638|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560091|
+|RNA-seq|Ezh2 Ctrl male PGC rep2|E13.5|male|Ezh2_ctrl|GSM4196639|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560093|
+|RNA-seq|Ezh2 Ctrl male PGC rep3|E13.5|male|Ezh2_ctrl|GSM4196640|https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10560095|
 
 ### 1.2 Process using sratoolkit
 
